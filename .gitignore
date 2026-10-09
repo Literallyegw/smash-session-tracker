@@ -1,0 +1,6 @@
+﻿__pycache__/
+*.py[cod]
+config.json
+game_database.xlsx
+build/
+dist/
